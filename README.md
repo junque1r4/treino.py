@@ -39,5 +39,7 @@ Quantidade atual de exercícios feitos: 24 (11 de abr 2019 03:59)
 
   Difíceis:
 - [ ] Dominar Programação Orientada ao objeto (POO)
-- [ ] Criar um ChatBot com AI
+- [x] Criar um ChatBot básico com AI
+- [ ] Criar um ChatBot intermediário com AI
+- [ ] Criar um ChatBot avançado com AI
 - [ ] Ler e fazer todas as atividades do Nilo Ney Coutinho

@@ -5,7 +5,6 @@ valor = int(input('Digite um valor inteiro para saque: R$'))
 cédulas = 50
 total_cedulas = 0
 while True:
-	
 	if valor >= cédulas:
 		total_cedulas += 1
 		valor -= cédulas

@@ -11,6 +11,7 @@ Eu fiz + de 60 atividades mas acabei perdendo por não usar github então vou co
 - [ ] Criar minha própria rede neural
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 Quantidade atual de exercícios feitos: 24 (11 de abr 2019 03:59)
 
   Fáceis:

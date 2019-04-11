@@ -1,45 +1,45 @@
 # treino.py
 Início dos estudos de Python: 06/02/2019
 
-Eu fiz + de 60 atividades mas acabei perdendo por não usar github então vou contar do 0 novamente e colocar todas aqui!
+~~Eu fiz + de 60 atividades mas acabei perdendo por não usar github então vou contar do 0 novamente e colocar todas aqui!~~
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-  Sonhos/Metas:
-- [ ] Engenheiro de Machine Learning
-- [ ] Engenheiro de Data Science
-- [ ] Criar minha própria rede neural
+  1. Sonhos/Metas:
+- [ ] _Engenheiro de Machine Learning_
+- [ ] _Engenheiro de Data Science_
+- [ ] _Criar minha própria rede neural_
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Quantidade atual de exercícios feitos: 24 (11 de abr 2019 03:59)
 
-  Fáceis:
-- [x] 20 Exercícios feitos
-- [ ] 40 Exercícios feitos
-- [ ] 60 Exercícios feitos
-- [ ] 80 Exercícios feitos
-- [ ] 100 Exercícios feitos 
-- [ ] +110 Exercícios feitos
+  2. Fáceis:
+- [x] _20 Exercícios feitos_
+- [ ] _40 Exercícios feitos_
+- [ ] _60 Exercícios feitos_
+- [ ] _80 Exercícios feitos_
+- [ ] _100 Exercícios feitos_
+- [ ] _+110 Exercícios feitos_
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-  Dominação:
-- [ ] Dominar Listas
-- [ ] Dominar Tuplas
-- [ ] Dominar Dicionários
-- [x] Dominar Aritmética
-- [x] Dominar tratamento de strings
-- [x] Dominar Laços de repetição
-- [x] Dominar Estruturas de condição
-- [ ] Dominar funções
-- [ ] Dominar a lib Chatterbot
+  3. Dominação:
+- [ ] _Dominar Listas_
+- [ ] _Dominar Tuplas_
+- [ ] _Dominar Dicionários_
+- [x] _Dominar Aritmética_
+- [x] _Dominar tratamento de strings_
+- [x] _Dominar Laços de repetição_
+- [x] _Dominar Estruturas de condição_
+- [ ] _Dominar funções_
+- [ ] _Dominar a lib Chatterbot_
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-  Difíceis:
-- [ ] Dominar Programação Orientada ao objeto (POO)
-- [x] Criar um ChatBot básico com AI
-- [ ] Criar um ChatBot intermediário com AI
-- [ ] Criar um ChatBot avançado com AI
-- [ ] Ler e fazer todas as atividades do Nilo Ney Coutinho
+  4. Difíceis:
+- [ ] _Dominar Programação Orientada ao objeto (POO)_
+- [x] _Criar um ChatBot básico com AI_
+- [ ] _Criar um ChatBot intermediário com AI_
+- [ ] _Criar um ChatBot avançado com AI_
+- [ ] _Ler e fazer todas as atividades do Nilo Ney Coutinho_

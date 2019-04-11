@@ -32,7 +32,7 @@ Quantidade atual de exercícios feitos: 24 (11 de abr 2019 03:59)
 - [x] Dominar tratamento de strings
 - [x] Dominar Laços de repetição
 - [x] Dominar Estruturas de condição
-- [ ] Dominar Dominar funções
+- [ ] Dominar funções
 - [ ] Dominar a lib Chatterbot
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

@@ -26,7 +26,7 @@ Quantidade atual de exercícios feitos: 24 (11 de abr 2019 03:59)
 
   3. Dominação:
 - [ ] _Dominar Listas_
-- [ ] _Dominar Tuplas_
+- [x] _Dominar Tuplas_
 - [ ] _Dominar Dicionários_
 - [x] _Dominar Aritmética_
 - [x] _Dominar tratamento de strings_

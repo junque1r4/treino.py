@@ -16,7 +16,7 @@ Quantidade atual de exercícios feitos: 24 (11 de abr 2019 03:59)
 
   2. Fáceis:
 - [x] _20 Exercícios feitos_
-- [ ] _40 Exercícios feitos_
+- [x] _40 Exercícios feitos_
 - [ ] _60 Exercícios feitos_
 - [ ] _80 Exercícios feitos_
 - [ ] _100 Exercícios feitos_

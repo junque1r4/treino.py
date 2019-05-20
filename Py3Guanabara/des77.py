@@ -1,6 +1,6 @@
 palavras = ('aprender', 'programar', 'python', 'shit', 'linguagem', 'praticar', 'mercado', 'futuro', 'curso', 'gratis')
 for repetição in range(0, len(palavras)):
-	print(f'Na palavra {palavras[repetição]} temos: ', end='')
+	print(f'Na palavra {repetição[palavras]} temos: ', end='')
 	if 'a' in palavras[repetição]:
 		if palavras[repetição].index('a') >= 0:
 			print('a', end=' ')

@@ -12,8 +12,9 @@ Início dos estudos de Python: 06/02/2019
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-Quantidade atual de exercícios feitos: 24 (11 de abr 2019 03:59)
-
+Quantidade atual de exercícios feitos: 
+24 (11 de abr 2019 03:59)
+43 (20 de mai 2019 19:27)
   2. Fáceis:
 - [x] _20 Exercícios feitos_
 - [x] _40 Exercícios feitos_

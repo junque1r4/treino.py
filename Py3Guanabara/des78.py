@@ -1,4 +1,4 @@
-lista = []
+lista = list()
 maior = menor = 0
 
 

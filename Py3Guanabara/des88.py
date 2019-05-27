@@ -1,9 +1,9 @@
-from time import  sleep
-from random import  randint
+from time import sleep
+from random import randint
 
 print('='*30, end='\n=')
 print(f'{"Joga na MEGA":^28}', end='=\n')
-print('='*30)
+print('='*30)  # Título e início do código.
 
 teste = 0
 jogos = int(input('Quantos jogos você quer ver? '))

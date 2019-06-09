@@ -17,7 +17,6 @@ for c in range(0, jogos):
             cartela.append(teste)
         if len(cartela) == 6:
             break
-
     sleep(1)
     print(sorted(cartela))
     jogos -= 1

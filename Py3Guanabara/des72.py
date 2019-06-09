@@ -8,5 +8,3 @@ if user not in c:
 			break
 print('O número %d por extenso é: %s'%(user, contagem[user]))
 
-# Usei a sintaxe do python2 só para não esquecer como se usa! *E porque o código fica mais rápido
-# Mas normalmente uso o fstring que foi adicionado no python3.6

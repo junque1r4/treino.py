@@ -31,7 +31,7 @@ Quantidade atual de exercícios feitos:
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
   3. Dominação:
-- [ ] _Dominar Listas_
+- [x] _Dominar Listas_
 - [x] _Dominar Tuplas_
 - [ ] _Dominar Dicionários_
 - [x] _Dominar Aritmética_

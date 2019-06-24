@@ -1,7 +1,12 @@
-# treino.py
-Início dos estudos de Python: 06/02/2019
+<p align="center">
+  <img width="460" height="400" src="https://www.cursoemvideo.com/wp-content/uploads/2017/02/Certificado-CeV-logo-1.png">
+</p>
 
-~~Eu fiz + de 60 atividades mas acabei perdendo por não usar github então vou contar do 0 novamente e colocar todas aqui!~~
+# treino.py
+#### Início dos estudos de Python: 06/02/2019  
+Caso queira ver minha caminhada pela programação(Só seguir):  ![ ](https://img.shields.io/github/watchers/junqueir4/treino.py.svg?style=for-the-badge)
+
+~~Eu fiz + de 60 atividades mas acabei perdendo por não usar github, então vou contar do 0 novamente e colocar todas aqui!~~
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -30,21 +35,21 @@ Quantidade atual de exercícios feitos:
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-  3. Dominação:
-- [x] _Dominar Listas_
-- [x] _Dominar Tuplas_
-- [ ] _Dominar Dicionários_
-- [x] _Dominar Aritmética_
-- [x] _Dominar tratamento de strings_
-- [x] _Dominar Laços de repetição_
-- [x] _Dominar Estruturas de condição_
-- [ ] _Dominar funções_
-- [ ] _Dominar a lib Chatterbot_
+  3. Aprendido:
+- [x] _Listas_
+- [x] _Tuplas_
+- [ ] _Dicionários_
+- [x] _Aritmética_
+- [x] _Tratamento de strings_
+- [x] _Laços de repetição_
+- [x] _Estruturas de condição_
+- [ ] _Funções_
+- [ ] _Lib Chatterbot_
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-  4. Difíceis:
-- [ ] _Dominar Programação Orientada ao objeto (POO)_
+  4. Avançadas:
+- [ ] _Programação Orientada ao objeto (POO)_
 - [x] _Criar um ChatBot básico com AI_
 - [ ] _Criar um ChatBot intermediário com AI_
 - [ ] _Criar um ChatBot avançado com AI_

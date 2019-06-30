@@ -44,6 +44,8 @@ Quantidade atual de exercícios feitos:
 - [x] _Laços de repetição_
 - [x] _Estruturas de condição_
 - [ ] _Funções_
+- [ ] _Classes_
+- [ ] _POO_
 - [ ] _Lib Chatterbot_
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

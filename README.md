@@ -38,7 +38,7 @@ Quantidade atual de exercícios feitos:
   3. Aprendido:
 - [x] _Listas_
 - [x] _Tuplas_
-- [ ] _Dicionários_
+- [x] _Dicionários_
 - [x] _Aritmética_
 - [x] _Tratamento de strings_
 - [x] _Laços de repetição_

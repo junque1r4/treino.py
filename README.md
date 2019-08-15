@@ -11,8 +11,8 @@ Caso queira ver minha caminhada pela programação(Só seguir):  ![ ](https://im
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
   1. Sonhos/Metas:
-- [ ] _Engenheiro de Machine Learning_
-- [ ] _Engenheiro de Data Science_
+- [ ] _Machine Learning Engeneer_
+- [ ] _Data Science Engeneer_
 - [ ] _Criar minha própria rede neural_
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -24,11 +24,13 @@ Quantidade atual de exercícios feitos:
 
 43 (20 de mai 2019 19:27)
 
+67 (15 de ago 2019 11:41)
+
 
   2. Fáceis:
 - [x] _20 Exercícios feitos_
 - [x] _40 Exercícios feitos_
-- [ ] _60 Exercícios feitos_
+- [x] _60 Exercícios feitos_
 - [ ] _80 Exercícios feitos_
 - [ ] _100 Exercícios feitos_
 - [ ] _+110 Exercícios feitos_
@@ -43,16 +45,16 @@ Quantidade atual de exercícios feitos:
 - [x] _Tratamento de strings_
 - [x] _Laços de repetição_
 - [x] _Estruturas de condição_
-- [ ] _Funções_
-- [ ] _Classes_
-- [ ] _POO_
+- [x] _Funções_
+- [x] _Classes_
+- [x] _POO_
 - [ ] _Lib Chatterbot_
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
   4. Avançadas:
-- [ ] _Programação Orientada ao objeto (POO)_
+- [x] _Programação Orientada ao objeto (POO)_
 - [x] _Criar um ChatBot básico com AI_
-- [ ] _Criar um ChatBot intermediário com AI_
+- [x] _Criar um ChatBot intermediário com AI_
 - [ ] _Criar um ChatBot avançado com AI_
 - [ ] _Ler e fazer todas as atividades do Nilo Ney Coutinho_
